@@ -1,3 +1,6 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
 this is test
-ㅇㅣ것은 테스트 입니다
