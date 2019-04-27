@@ -1,73 +1,69 @@
-## Voyager
+## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
 
-### Feathures:
 
-All HTML files are compressed (see `_layouts/compress.html`).
+# Newsletter: Stay in Touch for Future Updates
 
-**Post**
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-All post settings can be changed. Example:
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
-```
----
-layout: post
-bg: '2016/background.jpg'
-title: "Post Heading"
-crawlertitle: "page title"
-summary: "post description"
-date: 2016-06-29
-tags : ['front-end']
-slug: post-url
-author: "Author"
-categories: posts
----
-```
 
-`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-**Page**
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-If page contains `active` tag, it will be show on site menu.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-```
----
-layout: page
-title: "About"
-permalink: /about/
-active: about
----
-```
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
-**Archive**
+And what license is *Feeling Responsive* released under? [This one][2].
 
-Archive page is sorting posts by tags. No more than one tag in one post.
 
-Good:
 
-```
-tags : ['front-end']
-```
+## Why use this theme?
 
-Bad:
+Feeling Responsive is heavily customizable.
 
-```
-tags : ['front-end', 'jekyll']
-```
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
 
-Don't forget to change `_config.yml`.
+**[More ›][3]**
 
-**Relative paths**
 
-If your blog is not in the root directory, you can include images with a relative path. For example:
 
-```
-![my_image]({{ site.images | relative_url }}/image.jpg)
-```
+## Changelog
 
-## Production environment
+*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
 
-Build for production:
+**[Read Changelog ›][6]**
 
-`JEKYLL_ENV=production jekyll build`
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: https://github.com/TWiStErRob
+ [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
+ [9]: #
+ [10]: #
